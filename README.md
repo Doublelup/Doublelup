@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Doublelup
-- 🌱 I’m currently learning Operating System
+- 🌱 I’m currently learning CS229
 - 📫 How to reach me : my e-mail: lc1001202022@163.com
 
 <!---
